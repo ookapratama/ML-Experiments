@@ -62,8 +62,8 @@ Setiap proyek memiliki folder terpisah dengan instruksi yang detail di dalam fil
 ### Let's Connect!
 
 Saya selalu terbuka untuk diskusi tentang Machine Learning, AI, dan kolaborasi dalam proyek yang menarik. Silakan hubungi saya melalui:
-* **GitHub:** [[Link Profil GitHub Anda](https://github.com/ookapratama/)]
-* **LinkedIn:** [[Link Profil LinkedIn Anda](https://www.linkedin.com/in/ooka-pratama-9b9035223/)]
+* **GitHub:** [[ookapratama](https://github.com/ookapratama/)]
+* **LinkedIn:** [[ookapratama](https://www.linkedin.com/in/ooka-pratama-9b9035223/)]
 * **Website:** [Link Portofolio Anda]
 
 Terima kasih telah mengunjungi repositori saya!
