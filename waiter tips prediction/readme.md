@@ -42,7 +42,7 @@ Nilai R² = 0.50 menunjukkan bahwa model ini memiliki kekuatan prediksi yang bai
 
 ## Visualisasi
 
-!(https://github.com/ookapratama/ML-Experiments/tree/main/waiter%20tips%20prediction/screenshot/plot_scatter.png)
+!([scatter plot]https://github.com/ookapratama/ML-Experiments/tree/main/waiter%20tips%20prediction/screenshot/plot_scatter.png?raw=true)
 
 * **Plot Prediksi vs. Nilai Aktual:** Menunjukkan seberapa dekat nilai prediksi dengan nilai sebenarnya. Titik-titik yang membentuk pola diagonal menunjukkan model yang akurat.
 * **Plot Residual:** Menampilkan kesalahan prediksi. Jika titik-titik tersebar secara acak di sekitar sumbu horizontal (y=0), model dapat dianggap andal.
