@@ -8,10 +8,15 @@ This repository serves as my personal portfolio for projects in Machine Learning
 
 Berikut adalah daftar proyek yang terdapat di repositori ini, masing-masing dengan fokus dan teknologi yang berbeda:
 
-#### 1. [Waiter Tips Prediction]
+#### 1. Waiter Tips Prediction
 * **Tujuan Proyek:** Membangun dan mengevaluasi model **Regresi Linear** yang bertujuan memprediksi besaran tips yang diberikan oleh pelanggan kepada pelayan. Model ini dilatih menggunakan dataset tips yang berisi informasi tentang total tagihan, waktu makan, hari, dan faktor lainnya.
 * **Teknologi:** Python, Scikit-learn, Pandas, NumPy, Plotly
-* **Akses:** `./waiter tips prediction/`
+* **Akses:** `./waiter_tips_prediction/`
+
+#### 2. Future Sales Prediction
+* **Tujuan Proyek:** Membangun dan mengevaluasi model **Regresi Linear** yang bertujuan memprediksi besaran penjualan berdasarkan platform yang telah digunakan
+* **Teknologi:** Python, Scikit-learn, Pandas, NumPy, Plotly
+* **Akses:** `./future_sales_prediction/`
 
 <!-- #### 2. [Nama Proyek Anda, misal: Image Classifier for [Spesifik]]
 * **Tujuan Proyek:** [Deskripsikan tujuan, misal: Melatih model untuk mengklasifikasikan gambar.]
