@@ -40,8 +40,10 @@ Model yang dilatih pada `tips.csv` asli menunjukkan nilai **R² sebesar 0.50**, 
 
 Nilai R² = 0.50 menunjukkan bahwa model ini memiliki kekuatan prediksi yang baik. Angka RMSE = 1.15 berarti rata-rata kesalahan prediksi model sekitar $1.15 dari nilai tip yang sebenarnya, yang merupakan hasil yang sangat memuaskan untuk studi kasus ini.
 
-## Visualisasi
+* **Hasil Evaluasi:** Menunjukkan seberapa akurat model yang kita gunakan dalam memprediksi tip waiters.
+![Hasil evaluasi](https://github.com/ookapratama/ML-Experiments/blob/main/waiter_tips_prediction/screenshot/score.png)
 
+## Visualisasi
 
 * **Plot Prediksi vs. Nilai Aktual:** Menunjukkan seberapa dekat nilai prediksi dengan nilai sebenarnya. Titik-titik yang membentuk pola diagonal menunjukkan model yang akurat.
 ![scatter plot](https://github.com/ookapratama/ML-Experiments/blob/main/waiter_tips_prediction/screenshot/plot_scatter.png)

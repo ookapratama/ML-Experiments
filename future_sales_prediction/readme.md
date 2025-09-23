@@ -28,6 +28,9 @@ Proyek ini adalah studi kasus sederhana untuk membangun dan mengevaluasi model *
 
 Nilai R² = 0.91 indikator yang sangat kuat bahwa model Anda berhasil dalam memprediksi data. menunjukkan bahwa model ini memiliki kekuatan prediksi yang baik. Nilai RMSE 1.71 ini berarti rata-rata kesalahan prediksi model Anda adalah 1.71 unit penjualan. Misalnya, jika data penjualan Anda dalam ribuan dollar, maka rata-rata kesalahan model adalah $1,710.
 
+* **Hasil Evaluasi:** Menunjukkan seberapa akurat model yang kita gunakan dalam memprediksi hasil sales ke depannya.
+![Hasil evaluasi](https://github.com/ookapratama/ML-Experiments/blob/main/future_sales_prediction/screenshot/score.png)
+
 ## Visualisasi
 
 * **Plot Prediksi vs. Nilai Aktual:** Menunjukkan seberapa dekat nilai prediksi dengan nilai sebenarnya. Titik-titik yang membentuk pola diagonal menunjukkan model yang akurat.

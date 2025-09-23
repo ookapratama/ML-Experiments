@@ -18,6 +18,11 @@ Berikut adalah daftar proyek yang terdapat di repositori ini, masing-masing deng
 * **Teknologi:** Python, Scikit-learn, Pandas, NumPy, Plotly
 * **Akses:** `./future_sales_prediction/`
 
+#### 3. Crypto Currency Price Prediction
+* **Tujuan Proyek:** untuk membangun dan mengevaluasi model **Machine Learning** yang mampu memprediksi harga cryptocurrency. Model ini dilatih menggunakan data historis harga, volume, dan metrik pasar lainnya untuk membuat prakiraan harga **30 hari** ke depan.
+* **Teknologi:** Python, Scikit-learn, Pandas, NumPy, Plotly, Seaborn, Matplotlib, AutoTS, yfinance(refrence dataset)
+* **Akses:** `./cryptocurrency_price_prediction/`
+
 <!-- #### 2. [Nama Proyek Anda, misal: Image Classifier for [Spesifik]]
 * **Tujuan Proyek:** [Deskripsikan tujuan, misal: Melatih model untuk mengklasifikasikan gambar.]
 * **Teknologi:** Python, TensorFlow/PyTorch, Keras
