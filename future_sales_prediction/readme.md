@@ -1,5 +1,9 @@
 # Future Sales Prediction Project
 
+<p align="center">
+  <img src="https://github.com/ookapratama/ML-Experiments/blob/main/future_sales_prediction/screenshot/thumbnail.png" alt="Visualisasi Utama Proyek" width="800"/>
+</p>
+
 ## Ikhtisar Proyek
 
 Proyek ini adalah studi kasus sederhana untuk membangun dan mengevaluasi model **Regresi Linear** yang bertujuan memprediksi penjualan di masa depan. Model ini dilatih menggunakan data iklan historis yang mencakup pengeluaran di **TV, radio, dan koran** untuk memprediksi nilai penjualan (`Sales`).
