@@ -1,6 +1,8 @@
-# Waiter Tips Prediction Project
+# Waiters Tip Prediction Project
 
-<!-- !(https://i.ibb.co/L519V1y/plot1.png) -->
+<p align="center">
+  <img src="https://github.com/ookapratama/ML-Experiments/blob/main/waiter_tips_prediction/screenshot/thumbnail.png" alt="Visualisasi Utama Proyek" width="800"/>
+</p>
 
 Proyek ini adalah studi kasus sederhana untuk membangun dan mengevaluasi model **Regresi Linear** yang bertujuan memprediksi besaran tips yang diberikan oleh pelanggan kepada pelayan. Model ini dilatih menggunakan dataset tips yang berisi informasi tentang total tagihan, waktu makan, hari, dan faktor lainnya.
 
@@ -41,7 +43,7 @@ Model yang dilatih pada `tips.csv` asli menunjukkan nilai **R² sebesar 0.50**, 
 Nilai R² = 0.50 menunjukkan bahwa model ini memiliki kekuatan prediksi yang baik. Angka RMSE = 1.15 berarti rata-rata kesalahan prediksi model sekitar $1.15 dari nilai tip yang sebenarnya, yang merupakan hasil yang sangat memuaskan untuk studi kasus ini.
 
 * **Hasil Evaluasi:** Menunjukkan seberapa akurat model yang kita gunakan dalam memprediksi tip waiters.
-![Hasil evaluasi](https://github.com/ookapratama/ML-Experiments/blob/main/waiter_tips_prediction/screenshot/score.png)
+![Hasil evaluasi](https://github.com/ookapratama/ML-Experiments/blob/main/waiter_tips_prediction/screenshot/score_new.png)
 
 ## Visualisasi
 
