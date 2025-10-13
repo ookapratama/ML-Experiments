@@ -116,7 +116,7 @@ of this software and associated documentation files...
 
 **Your Name** - [@ookapratama_](https://www.instagram.com/ookapratama_) - ookapratama2@gmail.com
 
-**Project Link**: [https://github.com/ookapratama/image-classification-nn](ookapratama/ML-Experiments/tree/main/image_classification)
+**Project Link**: [https://github.com/ookapratama/ML-Experiments](https://github.com/ookapratama/ML-Experiments/tree/main)
 
 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ooka-pratama-9b9035223/)
 
