@@ -23,6 +23,16 @@ Berikut adalah daftar proyek yang terdapat di repositori ini, masing-masing deng
 * **Teknologi:** Python, Scikit-learn, Pandas, NumPy, Plotly, Seaborn, Matplotlib, AutoTS, yfinance(refrence dataset)
 * **Akses:** `./cryptocurrency_price_prediction/`
 
+#### 4. Stock Price Prediction
+* **Tujuan Proyek:** Membangun dan mengevaluasi model **LSTM Neural Networks** untuk memprediksi harga sotck. Model menggunakan data time series historis (harga, volume, dan metrik pasar) untuk membuat prakiraan harga **30 hari** ke depan dengan memanfaatkan kemampuan LSTM dalam menangkap pola temporal dan dependencies jangka panjang.
+* **Teknologi:** Python, TensorFlow/Keras, LSTM, Scikit-learn, Pandas, NumPy, Plotly, Seaborn, Matplotlib, AutoTS, yfinance (reference dataset)
+* **Akses:** `./stock_price_prediction/`
+
+#### 5. Image Classification with Neural Networks
+* **Tujuan Proyek:** Membangun dan mengevaluasi model **Deep Learning** untuk klasifikasi gambar menggunakan Neural Networks (FNN dan CNN). Proyek pembelajaran komprehensif yang mencakup seluruh pipeline ML mulai dari preprocessing, training, evaluation hingga deployment. Support multiple datasets (MNIST, Fashion-MNIST, CIFAR-10) dengan visualisasi mendalam dan analisis performa model.
+* **Teknologi:** Python, TensorFlow, Keras, CNN (Convolutional Neural Network), FNN (Feedforward Neural Network), NumPy, Matplotlib, Seaborn, Scikit-learn, Data Augmentation, Transfer Learning (MobileNetV2)
+* **Akses:** `./image_classification/`
+
 <!-- #### 2. [Nama Proyek Anda, misal: Image Classifier for [Spesifik]]
 * **Tujuan Proyek:** [Deskripsikan tujuan, misal: Melatih model untuk mengklasifikasikan gambar.]
 * **Teknologi:** Python, TensorFlow/PyTorch, Keras
