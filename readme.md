@@ -114,7 +114,7 @@ of this software and associated documentation files...
 
 ## 📧 Kontak
 
-**Your Name** - [@ookapratama_](https://www.instagram.com/ookapratama_) - ookapratama2@gmail.com
+**Ooka Pratama** - [@ookapratama_](https://www.instagram.com/ookapratama_) - ookapratama2@gmail.com
 
 **Project Link**: [https://github.com/ookapratama/ML-Experiments](https://github.com/ookapratama/ML-Experiments/tree/main)
 
