@@ -1,10 +1,10 @@
 # My Machine Learning & AI Portfolio
 
-### About This Repository
+## About This Repository
 
 This repository serves as my personal portfolio for projects in Machine Learning (ML), Artificial Intelligence (AI), and Data Science. As a **Backend Developer** with a strong foundation in full-stack development, I am passionate about leveraging my skills to build intelligent, data-driven applications. This collection showcases my journey from foundational concepts to practical implementations, highlighting my ability to solve complex problems using cutting-edge technologies.
 
-### Projects
+## Projects
 
 Berikut adalah daftar proyek yang terdapat di repositori ini, masing-masing dengan fokus dan teknologi yang berbeda:
 
@@ -35,7 +35,7 @@ Berikut adalah daftar proyek yang terdapat di repositori ini, masing-masing deng
 
 ---
 
-### Skills & Technologies
+## Skills & Technologies
 
 Proyek-proyek dalam repositori ini menunjukkan keahlian saya dalam:
 * **Bahasa Pemrograman:** Python
@@ -44,7 +44,7 @@ Proyek-proyek dalam repositori ini menunjukkan keahlian saya dalam:
 * **Visualisasi:** Matplotlib, Seaborn
 * **Konsep:** Regresi, Klasifikasi, Clustering, Pemrosesan Data (Data Preprocessing), Analisis Data Eksploratif (EDA)
 
-### How to Run
+## How to Run
 
 Setiap proyek memiliki folder terpisah dengan instruksi yang detail di dalam file `README.md` masing-masing. Secara umum, Anda dapat menjalankan proyek-proyek ini dengan mengikuti langkah-langkah berikut:
 
@@ -69,11 +69,87 @@ Setiap proyek memiliki folder terpisah dengan instruksi yang detail di dalam fil
     python [Nama File.py]
     ```
 
-### Let's Connect!
+## 🤝 Kontribusi
 
-Saya selalu terbuka untuk diskusi tentang Machine Learning, AI, dan kolaborasi dalam proyek yang menarik. Silakan hubungi saya melalui:
-* **GitHub:** [ookapratama](https://github.com/ookapratama/)
-* **LinkedIn:** [ookapratama](https://www.linkedin.com/in/ooka-pratama-9b9035223/)
-* **Website:** [ooka.my.id](https://ooka.my.id/)
+Kontribusi sangat welcome! Ini adalah learning project, jadi feedback dan suggestions sangat dihargai.
 
-Terima kasih telah mengunjungi repositori saya!
+### Cara Kontribusi:
+
+1. Fork repository
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open Pull Request
+
+### Areas for Contribution:
+- Bug fixes
+- Documentation improvements
+- New features
+- Performance optimizations
+- Additional examples
+- Tutorial translations
+
+<!-- ## 📄 Lisensi
+
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+```
+MIT License
+
+Copyright (c) 2025 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+``` -->
+
+## 📧 Kontak
+
+**Your Name** - [@ookapratama_](https://www.instagram.com/ookapratama_) - ookapratama2@gmail.com
+
+**Project Link**: [https://github.com/ookapratama/image-classification-nn](ookapratama/ML-Experiments/tree/main/image_classification)
+
+**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ooka-pratama-9b9035223/)
+
+---
+
+## 🙏 Acknowledgments
+
+- TensorFlow dan Keras teams untuk framework yang luar biasa
+- Dataset creators (MNIST, Fashion-MNIST, CIFAR-10)
+- Online ML/DL community untuk resources dan tutorials
+- Stack Overflow untuk debugging help
+- [List any mentors, courses, or specific tutorials yang helped]
+
+---
+
+## 📝 Notes
+
+Proyek ini dibuat untuk tujuan pembelajaran dan portfolio. Feel free to use it sebagai reference untuk belajar image classification dengan neural networks.
+
+**Happy Learning! 🚀**
+
+---
+
+### ⭐ Star History
+
+Jika proyek ini membantu pembelajaran Anda, consider memberikan star! ⭐
+
+### 🐛 Bug Reports
+
+Found a bug? Please open an issue dengan:
+- Bug description
+- Steps to reproduce
+- Expected vs actual behavior
+- Screenshots (jika applicable)
+- Environment details (Python version, OS, dll)
+
+### 💡 Feature Requests
+
+Have an idea? Open an issue dengan label `enhancement` dan describe:
+- Feature description
+- Use case
+- Potential implementation approach
+
+---
+
+**Made with ❤️ and lots of ☕ while learning ML/AI**
