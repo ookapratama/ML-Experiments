@@ -65,7 +65,7 @@ XGBoost memberikan hasil terbaik.
 Berikut adalah tampilan aplikasi prediksi harga laptop yang dibangun menggunakan Streamlit:
 
 ### 🔮 Halaman Prediksi
-![App Preview](https://github.com/ookapratama/ML-Experiments/tree/main/laptop_price_prediction/screenshots/preview.png)
+![App Preview](https://github.com/ookapratama/ML-Experiments/blob/main/laptop_price_prediction/screenshots/preview.png)
 
 
 ### 🌐 Live Demo
