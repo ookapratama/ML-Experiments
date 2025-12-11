@@ -1,7 +1,12 @@
 import os
 import sys
-ROOT = os.path.dirname(os.path.abspath(__file__))   # → path ke /app
-PROJECT_ROOT = os.path.dirname(ROOT)                # → path ke /project
+ROOT = os.path.dirname(os.path.abspath(__file__))         # project/app
+PROJECT_ROOT = os.path.dirname(ROOT)                      # project/
+
+# Tambahkan project root ke PYTHONPATH
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
 MODEL_DIR = os.path.join(PROJECT_ROOT, "models", "traditional")
   
 import streamlit as st
