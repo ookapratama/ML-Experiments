@@ -71,7 +71,7 @@ Berikut adalah tampilan aplikasi prediksi harga laptop yang dibangun menggunakan
 ### 🌐 Live Demo
 Aplikasi dapat dicoba secara langsung melalui link berikut:
 
-👉 **https://ookapratama-my-ml-course-regressionprojectappapp-jav0la.streamlit.app/**
+👉 **https://ookapratama-ml-experiments-laptop-price-predictionappapp-f33pbo.streamlit.app/**
 
 ---
 
