@@ -4,4 +4,5 @@
 ./models/traditional/*
 ./data/processed/*
 ./data/raw/*
+./data/screenshots/*
 ./src/__pycache__
