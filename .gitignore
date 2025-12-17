@@ -1,2 +1,6 @@
 .venv
 venv
+**/data/*.csv
+**/data/*.xlsx
+**/dataset/*.csv
+**/dataset/*.xlsx
