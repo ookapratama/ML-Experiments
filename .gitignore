@@ -4,6 +4,8 @@ venv
 **/data/*.xlsx
 **/dataset/*.csv
 **/dataset/*.xlsx
+**/processed/*.csv
+**/processed/*.xlsx
 *.zip
 *.rar
 .env
